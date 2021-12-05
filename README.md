@@ -15,7 +15,9 @@
  <a href="#" alt="Arman Abi's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=armanab&theme=tokyonight&show_icons=true" />
  </a>
-  
+   <a href="#" alt="Arman Abi's github stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanab&theme=tokyonight&show_icons=true" />
+ </a>
   <p align="center"><img alt="nikibreg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=armanab&show_icons=true&hide_border=true&count_private=true" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=armanab" alt="nikibreg" /></p>
 </p>
